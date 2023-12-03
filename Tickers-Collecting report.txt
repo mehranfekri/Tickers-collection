@@ -1,0 +1,28 @@
+Report on the Process of Identifying Ticker Symbols for Various Companies.
+
+Introduction
+This report outlines the task of manually identifying ticker symbols for various companies.
+The primary source of information was Google searches, and the focus was on the 'ENTITY_NAME' column from the provided Excel file, which lists company names.
+
+
+Methodology
+The process involved searching for each company's name on Google to find its respective ticker symbol in the stock market.
+This task required careful consideration, as many companies' names yielded multiple ticker symbols, posing a challenge in determining the correct and reliable one.
+
+
+Challenges Encountered
+- Multiple Ticker Symbols: More than half of the companies listed did not have straightforward ticker symbols. Often, a single company name would result in several ticker symbols, making it challenging to identify the correct one.
+
+-Reliability of Sources: Through experience, it was noted that certain websites like NASDAQ, NYSE, and Yahoo Finance were reliable sources for this information. However, not all companies' ticker symbols were readily available on these sites.
+
+-Regional Variations: The task was further complicated by the presence of Asian and European companies, which often have unique market practices and less accessible data. Some of these companies are not widely recognized, leading to a scarcity of reliable information regarding their ticker symbols.
+
+
+
+Strategies Adopted
+To address these challenges, the following strategies were employed:
+-Focused on Reliable Websites: Preference was given to popular and reputable financial websites for sourcing ticker symbol information.
+-Cross-Verification: When multiple ticker symbols were found, cross-verification was done using different sources to ensure accuracy.
+-Learning from Experience: As the task progressed, familiarity with common patterns and reliable sources improved the efficiency and accuracy of the searches.
+
+
